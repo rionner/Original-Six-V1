@@ -1,5 +1,5 @@
-// require( './models/db' );
-// var mongoose = require('mongoose');
+var mongoose = require('mongoose');
+var db = require( './models/db' );
 
 var express = require('express');
 var path = require('path');
