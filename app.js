@@ -1,5 +1,6 @@
 var mongoose = require('mongoose');
 var db = require( './models/db' );
+var teams = require('./models/Teams')
 
 var express = require('express');
 var path = require('path');

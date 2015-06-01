@@ -2,6 +2,7 @@
   {
     "Blackhawks": {
       "97-98": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 69,
         "home_games": 41,
@@ -18,6 +19,7 @@
         "home_attendance": 752381
       },
       "98-99": {
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 70,
         "home_games": 41,
@@ -34,6 +36,7 @@
         "home_attendance": 710503
       },
       "99-00": {
+        "name": "Blackhawks",
         "year": "1999-2000",
         "games_played": 72,
         "home_games": 41,
@@ -50,6 +53,7 @@
         "home_attendance": 667237
       },
       "00-01": {
+        "name": "Blackhawks",
         "year": "2000-2001",
         "games_played": 74,
         "home_games": 41,
@@ -66,6 +70,7 @@
         "home_attendance": 614875
       },
       "01-02": {
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 69,
         "home_games": 41,
@@ -82,6 +87,7 @@
         "home_attendance": 638324
       },
       "02-03": {
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 69,
         "home_games": 41,
@@ -98,6 +104,7 @@
         "home_attendance": 606580
       },
       "03-04": {
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 71,
         "home_games": 41,
@@ -114,6 +121,7 @@
         "home_attendance": 543374
       },
       "04-05": {
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 82,
         "home_games": 41,
@@ -130,6 +138,7 @@
         "home_attendance": 892532
       },
       "05-06": {
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 82,
         "home_games": 41,
@@ -146,6 +155,7 @@
         "home_attendance": 546075
       },
       "06-07": {
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 82,
         "home_games": 41,
@@ -162,6 +172,7 @@
         "home_attendance": 521809
       },
       "07-08": {
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 82,
         "home_games": 41,
@@ -178,6 +189,7 @@
         "home_attendance": 689377
       },
       "08-09": {
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 82,
         "home_games": 41,
@@ -194,6 +206,7 @@
         "home_attendance": 912155
       },
       "09-10": {
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 82,
         "home_games": 41,
@@ -210,6 +223,7 @@
         "home_attendance": 86632
       },
       "10-11": {
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 82,
         "home_games": 41,
@@ -226,6 +240,7 @@
         "home_attendance": 878356
       },
       "11-12": {
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 82,
         "home_games": 41,
@@ -242,6 +257,7 @@
         "home_attendance": 882874
       },
       "12-13": {
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 48,
         "home_games": 24,
@@ -258,6 +274,7 @@
         "home_attendance": 522619
       },
       "13-14": {
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 82,
         "home_games": 41,
@@ -274,6 +291,7 @@
         "home_attendance": 927545
       },
       "14-15": {
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 82,
         "home_games": 41,
@@ -290,6 +308,7 @@
         "home_attendance": 892532
       },
         "01-02-Playoffs": {
+          "name": "Blackhawks",
           "year": "2001-2002",
           "games_played": 5,
           "home_games": 2,
@@ -306,6 +325,7 @@
           "home_attendance": 38551
         },
         "04-05-Playoffs": {
+          "name": "Blackhawks",
           "year": "2004-2005",
           "games_played": 16,
           "home_games": 8,
@@ -322,6 +342,7 @@
           "home_attendance": 176643
         },
         "08-09-Playoffs": {
+          "name": "Blackhawks",
           "year": "2008-2009",
           "games_played": 17,
           "home_games": 8,
@@ -338,6 +359,7 @@
           "home_attendance": 180924
         },
         "09-10-Playoffs": {
+          "name": "Blackhawks",
           "year": "2009-2010",
           "games_played": 22,
           "home_games": 11,
@@ -354,6 +376,7 @@
           "home_attendance": 244474
         },
         "11-12-Playoffs": {
+          "name": "Blackhawks",
           "year": "2011-2012",
           "games_played": 6,
           "home_games": 3,
@@ -370,6 +393,7 @@
           "home_attendance": 65374
         },
         "12-13-Playoffs": {
+          "name": "Blackhawks",
           "year": "2012-2013",
           "games_played": 23,
           "home_games": 13,
@@ -386,6 +410,7 @@
           "home_attendance": 284604
         },
         "13-14-Playoffs": {
+          "name": "Blackhawks",
           "year": "2013-2014",
           "games_played": 19,
           "home_games": 10,
@@ -402,6 +427,7 @@
           "home_attendance": 220566
         },
         "14-15-Playoffs": {
+          "name": "Blackhawks",
           "year": "2014-2015",
           "games_played": 16,
           "home_games": 8,
@@ -422,6 +448,7 @@
   {
     "Bruins": {
       "97-98": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 69,
         "home_games": 41,
@@ -438,6 +465,7 @@
         "home_attendance": 619006
       },
       "98-99": {
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 69,
         "home_games": 41,
@@ -454,6 +482,7 @@
         "home_attendance": 668290
       },
       "99-00": {
+        "name": "Blackhawks",
         "year": "1999-2000",
         "games_played": 63,
         "home_games": 41,
@@ -470,6 +499,7 @@
         "home_attendance": 669237
       },
       "00-01": {
+        "name": "Blackhawks",
         "year": "2000-2001",
         "games_played": 74,
         "home_games": 41,
@@ -486,6 +516,7 @@
         "home_attendance": 632746
       },
       "01-02": {
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 76,
         "home_games": 41,
@@ -502,6 +533,7 @@
         "home_attendance": 631546
       },
       "02-03": {
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 71,
         "home_games": 41,
@@ -518,6 +550,7 @@
         "home_attendance": 616197
       },
       "03-04": {
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 67,
         "home_games": 41,
@@ -534,6 +567,7 @@
         "home_attendance": 620469
       },
       "04-05": {
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 82,
         "home_games": 41,
@@ -550,6 +584,7 @@
         "home_attendance": 720165
       },
       "05-06": {
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 82,
         "home_games": 41,
@@ -566,6 +601,7 @@
         "home_attendance": 664673
       },
       "06-07": {
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 82,
         "home_games": 41,
@@ -582,6 +618,7 @@
         "home_attendance": 605352
       },
       "07-08": {
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 82,
         "home_games": 41,
@@ -598,6 +635,7 @@
         "home_attendance": 630750
       },
       "08-09": {
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 82,
         "home_games": 41,
@@ -614,6 +652,7 @@
         "home_attendance": 698638
       },
       "09-10": {
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 82,
         "home_games": 41,
@@ -630,6 +669,7 @@
         "home_attendance": 733655
       },
       "10-11": {
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 82,
         "home_games": 41,
@@ -646,6 +686,7 @@
         "home_attendance": 717899
       },
       "11-12": {
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 82,
         "home_games": 41,
@@ -662,6 +703,7 @@
         "home_attendance": 720165
       },
       "12-13": {
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 48,
         "home_games": 24,
@@ -678,6 +720,7 @@
         "home_attendance": 421560
       },
       "13-14": {
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 82,
         "home_games": 41,
@@ -694,6 +737,7 @@
         "home_attendance": 720165
       },
       "14-15": {
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 82,
         "home_games": 41,
@@ -710,6 +754,7 @@
         "home_attendance": 720165
       },
       "97-98-Playoffs": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 6,
         "home_games": 3,
@@ -726,6 +771,7 @@
         "home_attendance": 47814
       },
       "98-99-Playoffs": {
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 12,
         "home_games": 6,
@@ -742,6 +788,7 @@
         "home_attendance": 105390
       },
       "01-02-Playoffs": {
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 6,
         "home_games": 3,
@@ -758,6 +805,7 @@
         "home_attendance": 52695
       },
       "02-03-Playoffs": {
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 5,
         "home_games": 2,
@@ -774,6 +822,7 @@
         "home_attendance": 29417
       },
       "03-04-Playoffs": {
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 7,
         "home_games": 4,
@@ -790,6 +839,7 @@
         "home_attendance": 70260
       },
       "07-08-Playoffs": {
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 7,
         "home_games": 3,
@@ -806,6 +856,7 @@
         "home_attendance": 52695
       },
       "08-09-Playoffs": {
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 11,
         "home_games": 6,
@@ -822,6 +873,7 @@
         "home_attendance": 105390
       },
       "09-10-Playoffs": {
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 13,
         "home_games": 7,
@@ -838,6 +890,7 @@
         "home_attendance": 122955
       },
       "10-11-Playoffs": {
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 25,
         "home_games": 13,
@@ -854,6 +907,7 @@
         "home_attendance": 228345
       },
       "11-12-Playoffs": {
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 7,
         "home_games": 4,
@@ -870,6 +924,7 @@
         "home_attendance": 70260
       },
       "12-13-Playoffs": {
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 22,
         "home_games": 12,
@@ -886,6 +941,7 @@
         "home_attendance": 210780
       },
       "13-14-Playoffs": {
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 12,
         "home_games": 7,
@@ -906,6 +962,7 @@
   {
     "Canadiens": {
       "97-98": {
+      "name": "Blackhawks",
       "year": "1997-1998",
       "games_played": 69,
       "home_games": 41,
@@ -922,6 +979,7 @@
       "home_attendance": 851645
       },
       "98-99": {
+      "name": "Blackhawks",
       "year": "1998-1999",
       "games_played": 71,
       "home_games": 41,
@@ -938,6 +996,7 @@
       "home_attendance": 850371
       },
       "99-00": {
+      "name": "Blackhawks",
       "year": "1999-2000",
       "games_played": 73,
       "home_games": 41,
@@ -954,6 +1013,7 @@
       "home_attendance": 828437
       },
       "00-01": {
+      "name": "Blackhawks",
       "year": "2000-2001",
       "games_played": 74,
       "home_games": 41,
@@ -970,6 +1030,7 @@
       "home_attendance": 824308
       },
       "01-02": {
+      "name": "Blackhawks",
       "year": "2001-2002",
       "games_played": 70,
       "home_games": 41,
@@ -986,6 +1047,7 @@
       "home_attendance": 821140
       },
       "02-03": {
+      "name": "Blackhawks",
       "year": "2002-2003",
       "games_played": 74,
       "home_games": 41,
@@ -1002,6 +1064,7 @@
       "home_attendance": 847586
       },
       "03-04": {
+      "name": "Blackhawks",
       "year": "2003-2004",
       "games_played": 75,
       "home_games": 41,
@@ -1018,6 +1081,7 @@
       "home_attendance": 842767
       },
       "04-05": {
+      "name": "Blackhawks",
       "year": "2004-2005",
       "games_played": 82,
       "home_games": 41,
@@ -1034,6 +1098,7 @@
       "home_attendance": 872752
       },
       "05-06": {
+      "name": "Blackhawks",
       "year": "2005-2006",
       "games_played": 82,
       "home_games": 41,
@@ -1050,6 +1115,7 @@
       "home_attendance": 872194
       },
       "06-07": {
+      "name": "Blackhawks",
       "year": "2006-2007",
       "games_played": 82,
       "home_games": 41,
@@ -1066,6 +1132,7 @@
       "home_attendance": 872193
       },
       "07-08": {
+      "name": "Blackhawks",
       "year": "2007-2008",
       "games_played": 82,
       "home_games": 41,
@@ -1082,6 +1149,7 @@
       "home_attendance": 872193
       },
       "08-09": {
+      "name": "Blackhawks",
       "year": "2008-2009",
       "games_played": 82,
       "home_games": 41,
@@ -1098,6 +1166,7 @@
       "home_attendance": 872193
       },
       "09-10": {
+      "name": "Blackhawks",
       "year": "2009-2010",
       "games_played": 82,
       "home_games": 41,
@@ -1114,6 +1183,7 @@
       "home_attendance": 872193
       },
       "10-11": {
+      "name": "Blackhawks",
       "year": "2010-2011",
       "games_played": 82,
       "home_games": 41,
@@ -1130,6 +1200,7 @@
       "home_attendance": 872193
       },
       "11-12": {
+      "name": "Blackhawks",
       "year": "2011-2012",
       "games_played": 82,
       "home_games": 41,
@@ -1146,6 +1217,7 @@
       "home_attendance": 872193
       },
       "12-13": {
+      "name": "Blackhawks",
       "year": "2012-2013",
       "games_played": 48,
       "home_games": 24,
@@ -1162,6 +1234,7 @@
       "home_attendance": 510552
       },
       "13-14": {
+      "name": "Blackhawks",
       "year": "2013-2014",
       "games_played": 82,
       "home_games": 41,
@@ -1178,6 +1251,7 @@
       "home_attendance": 872193
       },
       "14-15": {
+      "name": "Blackhawks",
       "year": "2014-2015",
       "games_played": 82,
       "home_games": 41,
@@ -1194,6 +1268,7 @@
       "home_attendance": 872752
       },
       "97-98-Playoffs": {
+      "name": "Blackhawks",
       "year": "1997-1998",
       "games_played": 10,
       "home_games": 5,
@@ -1210,6 +1285,7 @@
       "home_attendance": 105047
       },
       "01-02-Playoffs": {
+      "name": "Blackhawks",
       "year": "2001-2002",
       "games_played": 12,
       "home_games": 6,
@@ -1226,6 +1302,7 @@
       "home_attendance": 127638
       },
       "03-04-Playoffs": {
+      "name": "Blackhawks",
       "year": "2003-2004",
       "games_played": 11,
       "home_games": 5,
@@ -1242,6 +1319,7 @@
       "home_attendance": 106365
       },
       "04-05-Playoffs": {
+      "name": "Blackhawks",
       "year": "2004-2005",
       "games_played": 12,
       "home_games": 6,
@@ -1258,6 +1336,7 @@
       "home_attendance": 127722
       },
       "05-06-Playoffs": {
+      "name": "Blackhawks",
       "year": "2005-2006",
       "games_played": 6,
       "home_games": 3,
@@ -1274,6 +1353,7 @@
       "home_attendance": 63819
       },
       "07-08-Playoffs": {
+      "name": "Blackhawks",
       "year": "2007-2008",
       "games_played": 12,
       "home_games": 7,
@@ -1290,6 +1370,7 @@
       "home_attendance": 148911
       },
       "08-09-Playoffs": {
+      "name": "Blackhawks",
       "year": "2008-2009",
       "games_played": 4,
       "home_games": 2,
@@ -1306,6 +1387,7 @@
       "home_attendance": 42546
       },
       "09-10-Playoffs": {
+      "name": "Blackhawks",
       "year": "2009-2010",
       "games_played": 19,
       "home_games": 8,
@@ -1322,6 +1404,7 @@
       "home_attendance": 170184
       },
       "10-11-Playoffs": {
+      "name": "Blackhawks",
       "year": "2010-2011",
       "games_played": 7,
       "home_games": 3,
@@ -1338,6 +1421,7 @@
       "home_attendance": 63819
       },
       "12-13-Playoffs": {
+      "name": "Blackhawks",
       "year": "2012-2013",
       "games_played": 5,
       "home_games": 3,
@@ -1354,6 +1438,7 @@
       "home_attendance": 63819
       },
       "13-14-Playoffs": {
+      "name": "Blackhawks",
       "year": "2013-2014",
       "games_played": 17,
       "home_games": 8,
@@ -1370,6 +1455,7 @@
       "home_attendance": 170184
       },
       "14-15-Playoffs": {
+         "name": "Blackhawks",
          "year": "2014-2015",
          "games_played": 12,
          "home_games": 6,
@@ -1390,6 +1476,7 @@
   {
    "MapleLeafs": {
       "97-98":{
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 73,
         "home_games": 41,
@@ -1406,6 +1493,7 @@
         "home_attendance": 644003
       },
       "98-99":{
+      "name": "Blackhawks",
       "year": "1998-1999",
       "games_played": 75,
       "home_games": 41,
@@ -1422,6 +1510,7 @@
       "home_attendance": 687372
       },
       "99-00":{
+      "name": "Blackhawks",
       "year": "1999-2000",
       "games_played": 75,
       "home_games": 41,
@@ -1438,6 +1527,7 @@
       "home_attendance": 785484
       },
       "00-01":{
+      "name": "Blackhawks",
       "year": "2000-2001",
       "games_played": 71,
       "home_games": 41,
@@ -1454,6 +1544,7 @@
       "home_attendance": 789567
       },
       "01-02":{
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 72,
         "home_games": 41,
@@ -1470,6 +1561,7 @@
         "home_attendance": 790457
       },
       "02-03":{
+      "name": "Blackhawks",
       "year": "2002-2003",
       "games_played": 75,
       "home_games": 41,
@@ -1486,6 +1578,7 @@
       "home_attendance": 788847
       },
       "03-04":{
+      "name": "Blackhawks",
       "year": "2003-2004",
       "games_played": 72,
       "home_games": 41,
@@ -1502,6 +1595,7 @@
       "home_attendance": 794439
       },
       "04-05":{
+      "name": "Blackhawks",
       "year": "2004-2005",
       "games_played": 82,
       "home_games": 41,
@@ -1518,6 +1612,7 @@
       "home_attendance": 781576
       },
       "05-06":{
+      "name": "Blackhawks",
       "year": "2005-2006",
       "games_played": 82,
       "home_games": 41,
@@ -1534,6 +1629,7 @@
       "home_attendance": 795747
       },
       "06-07":{
+      "name": "Blackhawks",
       "year": "2006-2007",
       "games_played": 82,
       "home_games": 41,
@@ -1550,6 +1646,7 @@
       "home_attendance": 798981
       },
       "07-08":{
+      "name": "Blackhawks",
       "year": "2007-2008",
       "games_played": 82,
       "home_games": 41,
@@ -1566,6 +1663,7 @@
       "home_attendance": 796803
       },
       "08-09":{
+      "name": "Blackhawks",
       "year": "2008-2009",
       "games_played": 82,
       "home_games": 41,
@@ -1582,6 +1680,7 @@
       "home_attendance": 791795
       },
       "09-10":{
+      "name": "Blackhawks",
       "year": "2009-2010",
       "games_played": 82,
       "home_games": 41,
@@ -1598,6 +1697,7 @@
       "home_attendance": 789681
       },
       "10-11":{
+      "name": "Blackhawks",
       "year": "2010-2011",
       "games_played": 82,
       "home_games": 41,
@@ -1614,6 +1714,7 @@
       "home_attendance": 793522
       },
       "11-12":{
+      "name": "Blackhawks",
       "year": "2011-2012",
       "games_played": 82,
       "home_games": 41,
@@ -1630,6 +1731,7 @@
       "home_attendance": 799786
       },
       "12-13":{
+      "name": "Blackhawks",
       "year": "2012-2013",
       "games_played": 48,
       "home_games": 24,
@@ -1646,6 +1748,7 @@
       "home_attendance": 466229
       },
       "13-14":{
+      "name": "Blackhawks",
       "year": "2013-2014",
       "games_played": 82,
       "home_games": 41,
@@ -1662,6 +1765,7 @@
       "home_attendance": 797310
       },
       "14-15":{
+      "name": "Blackhawks",
       "year": "2014-2015",
       "games_played": 82,
       "home_games": 41,
@@ -1678,6 +1782,7 @@
       "home_attendance": 781576
       },
       "98-99-Playoffs": {
+      "name": "Blackhawks",
       "year": "1998-1999",
       "games_played": 17,
       "home_games": 9,
@@ -1694,6 +1799,7 @@
       "home_attendance": 169200
       },
       "99-00-Playoffs": {
+      "name": "Blackhawks",
       "year": "1999-2000",
       "games_played": 12,
       "home_games": 6,
@@ -1710,6 +1816,7 @@
       "home_attendance": 116303
       },
       "00-01-Playoffs": {
+      "name": "Blackhawks",
       "year": "2000-2001",
       "games_played": 11,
       "home_games": 5,
@@ -1726,6 +1833,7 @@
       "home_attendance": 97241
       },
       "01-02-Playoffs": {
+      "name": "Blackhawks",
       "year": "2001-2002",
       "games_played": 20,
       "home_games": 11,
@@ -1742,6 +1850,7 @@
       "home_attendance": 213678
       },
       "02-03-Playoffs": {
+      "name": "Blackhawks",
       "year": "2002-2003",
       "games_played": 7,
       "home_games": 3,
@@ -1758,6 +1867,7 @@
       "home_attendance": 58680
       },
       "03-04-Playoffs": {
+      "name": "Blackhawks",
       "year": "2003-2004",
       "games_played": 13,
       "home_games": 7,
@@ -1774,6 +1884,7 @@
       "home_attendance": 137161
       },
       "12-13-Playoffs": {
+      "name": "Blackhawks",
       "year": "2012-2013",
       "games_played": 7,
       "home_games": 3,
@@ -1794,6 +1905,7 @@
   {
     "Rangers": {
       "97-98": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 64,
         "home_games": 41,
@@ -1810,6 +1922,7 @@
         "home_attendance": 745768
       },
       "98-99":{
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 71,
         "home_games": 41,
@@ -1826,6 +1939,7 @@
         "home_attendance": 746200
       },
       "99-00":{
+        "name": "Blackhawks",
         "year": "1999-2000",
         "games_played": 70,
         "home_games": 41,
@@ -1842,6 +1956,7 @@
         "home_attendance": 746200
       },
       "00-01":{
+        "name": "Blackhawks",
         "year": "2000-2001",
         "games_played": 77,
         "home_games": 41,
@@ -1858,6 +1973,7 @@
         "home_attendance": 746200
       },
       "01-02":{
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 78,
         "home_games": 41,
@@ -1874,6 +1990,7 @@
         "home_attendance": 739582
       },
       "02-03":{
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 72,
         "home_games": 41,
@@ -1890,6 +2007,7 @@
         "home_attendance": 744068
       },
       "03-04":{
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 75,
         "home_games": 41,
@@ -1906,6 +2024,7 @@
         "home_attendance": 741302
       },
       "04-05":{
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 82,
         "home_games": 41,
@@ -1922,6 +2041,7 @@
         "home_attendance": 738246
       },
       "05-06":{
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 82,
         "home_games": 41,
@@ -1938,6 +2058,7 @@
         "home_attendance": 743848
       },
       "06-07":{
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 82,
         "home_games": 41,
@@ -1954,6 +2075,7 @@
         "home_attendance": 746200
       },
       "07-08":{
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 82,
         "home_games": 41,
@@ -1970,6 +2092,7 @@
         "home_attendance": 746200
       },
       "08-09":{
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 82,
         "home_games": 41,
@@ -1986,6 +2109,7 @@
         "home_attendance": 745085
       },
       "09-10":{
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 82,
         "home_games": 41,
@@ -2002,6 +2126,7 @@
         "home_attendance": 741128
       },
       "10-11":{
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 82,
         "home_games": 41,
@@ -2018,6 +2143,7 @@
         "home_attendance": 742432
       },
       "11-12":{
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 82,
         "home_games": 41,
@@ -2034,6 +2160,7 @@
         "home_attendance": 745852
       },
       "12-13":{
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 48,
         "home_games": 24,
@@ -2050,6 +2177,7 @@
         "home_attendance": 412800
       },
       "13-14":{
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 82,
         "home_games": 41,
@@ -2066,6 +2194,7 @@
         "home_attendance": 738246
       },
       "14-15":{
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 82,
         "home_games": 41,
@@ -2082,6 +2211,7 @@
         "home_attendance": 738246
       },
       "04-05-Playoffs":{
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 18,
         "home_games": 10,
@@ -2098,6 +2228,7 @@
         "home_attendance": 180060
       },
       "05-06-Playoffs":{
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 4,
         "home_games": 2,
@@ -2114,6 +2245,7 @@
         "home_attendance": 36400
       },
       "06-07-Playoffs":{
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 10,
         "home_games": 5,
@@ -2130,6 +2262,7 @@
         "home_attendance": 91000
       },
       "07-08-Playoffs":{
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 10,
         "home_games": 4,
@@ -2146,6 +2279,7 @@
         "home_attendance": 72800
       },
       "08-09-Playoffs":{
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 7,
         "home_games": 3,
@@ -2162,6 +2296,7 @@
         "home_attendance": 54600
       },
       "10-11-Playoffs":{
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 5,
         "home_games": 2,
@@ -2178,6 +2313,7 @@
         "home_attendance": 36400
       },
       "11-12-Playoffs":{
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 20,
         "home_games": 11,
@@ -2194,6 +2330,7 @@
         "home_attendance": 200200
       },
       "12-13-Playoffs":{
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 12,
         "home_games": 5,
@@ -2210,6 +2347,7 @@
         "home_attendance": 86000
       },
       "13-14-Playoffs":{
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 25,
         "home_games": 12,
@@ -2226,6 +2364,7 @@
         "home_attendance": 216072
       },
       "14-15-Playoffs":{
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 18,
         "home_games": 10,
@@ -2246,6 +2385,7 @@
   {
     "RedWings": {
       "97-98": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 67,
         "home_games": 41,
@@ -2262,6 +2402,7 @@
         "home_attendance": 819303
       },
       "98-99":{
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 75,
         "home_games": 41,
@@ -2278,6 +2419,7 @@
         "home_attendance": 819303
       },
       "99-00":{
+        "name": "Blackhawks",
         "year": "1999-2000",
         "games_played": 72,
         "home_games": 41,
@@ -2294,6 +2436,7 @@
         "home_attendance": 819303
       },
       "00-01":{
+        "name": "Blackhawks",
         "year": "2000-2001",
         "games_played": 73,
         "home_games": 41,
@@ -2310,6 +2453,7 @@
         "home_attendance": 819795
       },
       "01-02":{
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 72,
         "home_games": 41,
@@ -2326,6 +2470,7 @@
         "home_attendance": 822373
       },
       "02-03":{
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 72,
         "home_games": 41,
@@ -2342,6 +2487,7 @@
         "home_attendance": 822378
       },
       "03-04":{
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 71,
         "home_games": 41,
@@ -2358,6 +2504,7 @@
         "home_attendance": 822706
       },
       "04-05":{
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 82,
         "home_games": 41,
@@ -2374,6 +2521,7 @@
         "home_attendance": 821107
       },
       "05-06":{
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 82,
         "home_games": 41,
@@ -2390,6 +2538,7 @@
         "home_attendance": 822646
       },
       "06-07":{
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 82,
         "home_games": 41,
@@ -2406,6 +2555,7 @@
         "home_attendance": 822706
       },
       "07-08":{
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 82,
         "home_games": 41,
@@ -2422,6 +2572,7 @@
         "home_attendance": 773696
       },
       "08-09":{
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 82,
         "home_games": 41,
@@ -2438,6 +2589,7 @@
         "home_attendance": 814474
       },
       "09-10":{
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 82,
         "home_games": 41,
@@ -2454,6 +2606,7 @@
         "home_attendance": 795697
       },
       "10-11":{
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 82,
         "home_games": 41,
@@ -2470,6 +2623,7 @@
         "home_attendance": 806892
       },
       "11-12":{
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 82,
         "home_games": 41,
@@ -2486,6 +2640,7 @@
         "home_attendance": 822706
       },
       "12-13":{
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 48,
         "home_games": 24,
@@ -2502,6 +2657,7 @@
         "home_attendance": 481584
       },
       "13-14":{
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 82,
         "home_games": 41,
@@ -2518,6 +2674,7 @@
         "home_attendance": 902639
       },
       "14-15":{
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 82,
         "home_games": 41,
@@ -2534,6 +2691,7 @@
         "home_attendance": 821107
       },
       "97-98-Playoffs": {
+        "name": "Blackhawks",
         "year": "1997-1998",
         "games_played": 22,
         "home_games": 11,
@@ -2550,6 +2708,7 @@
         "home_attendance": 219813
       },
       "98-99-Playoffs":{
+        "name": "Blackhawks",
         "year": "1998-1999",
         "games_played": 10,
         "home_games": 5,
@@ -2566,6 +2725,7 @@
         "home_attendance": 99915
       },
       "99-00-Playoffs":{
+        "name": "Blackhawks",
         "year": "1999-2000",
         "games_played": 9,
         "home_games": 4,
@@ -2582,6 +2742,7 @@
         "home_attendance": 79932
       },
       "00-01-Playoffs":{
+        "name": "Blackhawks",
         "year": "2000-2001",
         "games_played": 6,
         "home_games": 3,
@@ -2598,6 +2759,7 @@
         "home_attendance": 59985
       },
       "01-02-Playoffs":{
+        "name": "Blackhawks",
         "year": "2001-2002",
         "games_played": 23,
         "home_games": 13,
@@ -2614,6 +2776,7 @@
         "home_attendance": 260754
       },
       "02-03-Playoffs":{
+        "name": "Blackhawks",
         "year": "2002-2003",
         "games_played": 4,
         "home_games": 2,
@@ -2630,6 +2793,7 @@
         "home_attendance": 40116
       },
       "03-04-Playoffs":{
+        "name": "Blackhawks",
         "year": "2003-2004",
         "games_played": 12,
         "home_games": 6,
@@ -2646,6 +2810,7 @@
         "home_attendance": 120396
       },
       "04-05-Playoffs":{
+        "name": "Blackhawks",
         "year": "2004-2005",
         "games_played": 7,
         "home_games": 3,
@@ -2662,6 +2827,7 @@
         "home_attendance": 60081
       },
       "05-06-Playoffs":{
+        "name": "Blackhawks",
         "year": "2005-2006",
         "games_played": 6,
         "home_games": 3,
@@ -2678,6 +2844,7 @@
         "home_attendance": 60198
       },
       "06-07-Playoffs":{
+        "name": "Blackhawks",
         "year": "2006-2007",
         "games_played": 18,
         "home_games": 9,
@@ -2694,6 +2861,7 @@
         "home_attendance": 175619
       },
       "07-08-Playoffs":{
+        "name": "Blackhawks",
         "year": "2007-2008",
         "games_played": 22,
         "home_games": 11,
@@ -2710,6 +2878,7 @@
         "home_attendance": 220726
       },
       "08-09-Playoffs":{
+        "name": "Blackhawks",
         "year": "2008-2009",
         "games_played": 23,
         "home_games": 13,
@@ -2726,6 +2895,7 @@
         "home_attendance": 260858
       },
       "09-10-Playoffs":{
+        "name": "Blackhawks",
         "year": "2009-2010",
         "games_played": 12,
         "home_games": 5,
@@ -2742,6 +2912,7 @@
         "home_attendance": 100330
       },
       "10-11-Playoffs":{
+        "name": "Blackhawks",
         "year": "2010-2011",
         "games_played": 11,
         "home_games": 5,
@@ -2758,6 +2929,7 @@
         "home_attendance": 100330
       },
       "11-12-Playoffs":{
+        "name": "Blackhawks",
         "year": "2011-2012",
         "games_played": 5,
         "home_games": 2,
@@ -2774,6 +2946,7 @@
         "home_attendance": 40132
       },
       "12-13-Playoffs":{
+        "name": "Blackhawks",
         "year": "2012-2013",
         "games_played": 14,
         "home_games": 6,
@@ -2790,6 +2963,7 @@
         "home_attendance": 120396
       },
       "13-14-Playoffs":{
+        "name": "Blackhawks",
         "year": "2013-2014",
         "games_played": 5,
         "home_games": 2,
@@ -2806,6 +2980,8 @@
         "home_attendance": 40132
       },
       "14-15-Playoffs":{
+        "playoffs": "true",
+        "name": "Blackhawks",
         "year": "2014-2015",
         "games_played": 7,
         "home_games": 3,
