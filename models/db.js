@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-var connectionString = "mongodb://localhost/original-six";
+var connectionString = "mongodb://localhost/teams_database";
 mongoose.connect(connectionString);
 
 mongoose.connection.on('connected', function(){
@@ -15,4 +15,3 @@ mongoose.connection.on('error', function(error){
   console.log("[MongoDB] Error! See below:");
   console.log(error);
 });
--

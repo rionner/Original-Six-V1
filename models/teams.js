@@ -1,22 +1,23 @@
 var mongoose = require('mongoose');
-
 var TeamSchema = new mongoose.Schema({
 
-  name: Object,
-    year: String,
-    games_played: Integer,
-    home_games: Integer,
-    road_games: Integer,
-    wins: Integer,
-    losses: Integer,
-    overtime: Integer,
-    shootout: Integer,
-    team_goals: Integer,
-    avg_goals_for: Integer,
-    opponent_goals: Integer,
-    avg_goals_against: Integer,
-    total_attendance: Integer,
-    home_attendance: Integer,  
+  team:
+    season:
+      year: String,
+      games_played: Number,
+      home_games: Number,
+      road_games: Number,
+      wins: Number,
+      losses: Number,
+      overtime: Number,
+      shootout: Number,
+      team_goals: Number,
+      avg_goals_for: Number,
+      opponent_goals: Number,
+      avg_goals_against: Number,
+      total_attendance: Number,
+      home_attendance: Number,
+
 });
 
 // export
