@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-var connectionString = "mongodb://localhost/teams_database";
+var connectionString = "mongodb://localhost/original_six";
 mongoose.connect(connectionString);
 
 mongoose.connection.on('connected', function(){
