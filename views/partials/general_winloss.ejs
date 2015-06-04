@@ -4,21 +4,4 @@
     <label><input type="radio" name="mode" value="grouped"> Grouped</label>
     <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
   </form>
-
-
-  <script type="text/javascript">
-
-    $(document).ready(function(){
-      $.ajax({
-        method: 'get',
-        url: '/api/<%= title %>',
-        dataType: 'json',
-        success: function(data){
-          plotWinsLosses(data);
-        }
-      });
-    });
-
-  </script>
-
 </div>

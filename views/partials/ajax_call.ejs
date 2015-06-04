@@ -1,0 +1,15 @@
+<script type="text/javascript">
+
+  $(document).ready(function(){
+    $.ajax({
+      method: 'get',
+      url: '/api/<%= team %>',
+      dataType: 'json',
+      success: function(data){
+        plotWinsLosses(data);
+        // plotGoals(data)
+      }
+    });
+  });
+
+</script>

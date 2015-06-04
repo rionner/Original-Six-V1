@@ -1,4 +1,4 @@
-function plotWinsLosses(data, colorData){
+function plotWinsLosses(data){
   var n = 2; // number of layers
   var m = 18; // number of samples per layer
   var stack = d3.layout.stack();
@@ -38,9 +38,31 @@ function plotWinsLosses(data, colorData){
       .domain([0, yStackMax])
       .range([height, 0]);
 
-  // var color = d3.scale.linear()
-  //     .domain([0, n - 1])
-  //     .range(function{ return d.primary_color,   d.secondary_color });
+  var colors = data.map(function(d, i) {
+      var arr = [];
+      var temp = {};
+
+      temp.primary_color = d.primary_color;
+      temp.secondary_color = d.secondary_color;
+
+      for (var color in temp) {
+         var selectedColor = temp[color];
+
+         selectedColor = selectedColor.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+         selectedColor = (selectedColor && selectedColor.length === 4) ? "#" +
+          ("0" + parseInt(selectedColor[1],10).toString(16)).slice(-2) +
+          ("0" + parseInt(selectedColor[2],10).toString(16)).slice(-2) +
+          ("0" + parseInt(selectedColor[3],10).toString(16)).slice(-2) : '';
+
+          temp[color] = selectedColor;
+          arr.push(selectedColor);
+      }
+      return arr;
+  });
+
+  var color = d3.scale.linear()
+    .domain([0, n - 1])
+    .range(colors[0]);
 
   var xAxis = d3.svg.axis()
       .scale(x)
@@ -58,7 +80,7 @@ function plotWinsLosses(data, colorData){
       .data(layers)
       .enter().append("g")
       .attr("class", "layer")
-      .style("fill", function(d) { return d.primary_color , d.secondary_color; });
+      .style("fill", function(d, i) { return color(i); });
 
   var rect = layer.selectAll("rect")
       .data(function(d) { return d; })
@@ -116,4 +138,4 @@ function plotWinsLosses(data, colorData){
         .attr("width", x.rangeBand());
   }
 
-}; // function plotWinsLosses
+};
