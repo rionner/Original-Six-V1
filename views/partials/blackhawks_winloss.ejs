@@ -1,0 +1,21 @@
+<div class="blackhawks win-loss">
+  <h1>Wins v. Losses '97/'98 - '14/'15</h1>
+  <form>
+    <label><input type="radio" name="mode" value="grouped"> Grouped</label>
+    <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
+  </form>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $.ajax({
+        method: 'get',
+        url: '/api/blackhawks',
+        dataType: 'json',
+        success: function(data){
+          plotWinsLosses(data);
+        }
+      });
+    });
+  </script>
+
+</div>

@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <h1><%= city %></h1>
+<%= include ./partials/header %>
+<%= include ./partials/nav %>
 
-  </body>
-</html>
+  <h1><%= title %></h1>
+  <h1><%= city %></h1>
+
+<%= include ./partials/mapleleafs_winloss %>
+
+<%= include ./partials/footer %>

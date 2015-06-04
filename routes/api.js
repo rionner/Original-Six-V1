@@ -12,18 +12,44 @@ router.get('/', function(req, res, next) {
 
 router.get('/blackhawks', function(req, res, next) {
   // check mongodb for ALL
-  var hawks = Teams.find({ team: "Blackhawks" }, function(err, hawks) {
-    res.send(hawks);
+  var blackhawks = Teams.find({ team: "Blackhawks" }, function(err, blackhawks) {
+    res.send(blackhawks);
   });
 });
 
+router.get('/bruins', function(req, res, next) {
+  // check mongodb for ALL
+  var bruins = Teams.find({ team: "Bruins" }, function(err, bruins) {
+    res.send(bruins);
+  });
+});
 
 router.get('/canadiens', function(req, res, next) {
   // check mongodb for ALL
-  var losers = Teams.find({ team: "Canadiens" }, function(err, losers) {
-    res.send(losers);
+  var canadiens = Teams.find({ team: "Canadiens" }, function(err, canadiens) {
+    res.send(canadiens);
   });
 });
 
+router.get('/mapleleafs', function(req, res, next) {
+  // check mongodb for ALL
+  var mapleleafs = Teams.find({ team: "Maple Leafs" }, function(err, mapleleafs) {
+    res.send(mapleleafs);
+  });
+});
+
+router.get('/rangers', function(req, res, next) {
+  // check mongodb for ALL
+  var rangers = Teams.find({ team: "Rangers" }, function(err, rangers) {
+    res.send(rangers);
+  });
+});
+
+router.get('/redwings', function(req, res, next) {
+  // check mongodb for ALL
+  var redwings = Teams.find({ team: "Red Wings" }, function(err, redwings) {
+    res.send(redwings);
+  });
+});
 
 module.exports = router;
