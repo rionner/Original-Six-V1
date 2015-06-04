@@ -1,22 +1,24 @@
-<div class="bruins win-loss">
+<div class="<%= title %> win-loss">
   <h1>Wins v. Losses '97/'98 - '14/'15</h1>
-    <form>
+  <form>
     <label><input type="radio" name="mode" value="grouped"> Grouped</label>
     <label><input type="radio" name="mode" value="stacked" checked> Stacked</label>
   </form>
 
+
   <script type="text/javascript">
+
     $(document).ready(function(){
       $.ajax({
         method: 'get',
-        url: '/api/bruins',
+        url: '/api/<%= title %>',
         dataType: 'json',
         success: function(data){
           plotWinsLosses(data);
-          console.log(data);
         }
       });
     });
+
   </script>
 
 </div>

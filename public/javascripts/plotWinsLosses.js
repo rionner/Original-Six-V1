@@ -1,4 +1,4 @@
-function plotWinsLosses(data){
+function plotWinsLosses(data, colorData){
   var n = 2; // number of layers
   var m = 18; // number of samples per layer
   var stack = d3.layout.stack();
@@ -38,28 +38,9 @@ function plotWinsLosses(data){
       .domain([0, yStackMax])
       .range([height, 0]);
 
-  var teamPrimaryColor;
-  var teamSecondaryColor;
-
-  var primaryColors = data.map(function(d, i){
-    if (d.team === 'Blackhawks') {
-      var teamPrimaryColor = '#e3263a' };
-  });
-    // else if (d.team == 'Bruins') {
-    //
-    // } {
-    //   return null;
-    // }
-  // });
-
-  var secondaryColors = data.map(function(d, i){
-    if (d.team === 'Blackhawks') {
-      var teamSecondaryColor ='#000' };
-    });
-
-  var color = d3.scale.linear()
-      .domain([0, n - 1])
-      .range([teamPrimaryColor, teamSecondaryColor]);
+  // var color = d3.scale.linear()
+  //     .domain([0, n - 1])
+  //     .range(function{ return d.primary_color,   d.secondary_color });
 
   var xAxis = d3.svg.axis()
       .scale(x)
@@ -77,7 +58,7 @@ function plotWinsLosses(data){
       .data(layers)
       .enter().append("g")
       .attr("class", "layer")
-      .style("fill", function(d, i) { return color(i); });
+      .style("fill", function(d) { return d.primary_color , d.secondary_color; });
 
   var rect = layer.selectAll("rect")
       .data(function(d) { return d; })

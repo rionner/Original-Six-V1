@@ -15,7 +15,9 @@ var TeamsSchema = new mongoose.Schema({
     opponent_goals: Number,
     avg_goals_against: Number,
     total_attendance: Number,
-    home_attendance: Number
+    home_attendance: Number,
+    primary_color: String,
+    secondary_color: String
 });
 
 // export

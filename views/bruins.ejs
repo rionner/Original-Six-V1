@@ -1,6 +1,5 @@
 <%= include ./partials/header %>
-    <link rel='stylesheet' href='/stylesheets/bruins.css' />
-  </head>
+
 <body id='wrapper'>
 
 <%= include ./partials/nav %>
@@ -8,6 +7,9 @@
   <h1><%= title %></h1>
   <h1><%= city %></h1>
 
-<%= include ./partials/bruins_winloss %>
+<%= include ./partials/general_winloss.ejs %>
 
 <%= include ./partials/footer %>
+
+</body>
+</html>

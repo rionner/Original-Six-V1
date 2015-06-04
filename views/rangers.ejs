@@ -1,13 +1,15 @@
 <%= include ./partials/header %>
-    <link rel='stylesheet' href='/stylesheets/rangers.css' />
-  </head>
-<body id='wrapper'>
 
+<body id='wrapper'>
+  
 <%= include ./partials/nav %>
 
   <h1><%= title %></h1>
   <h1><%= city %></h1>
 
-<%= include ./partials/rangers_winloss %>
+<%= include ./partials/general_winloss.ejs %>
 
 <%= include ./partials/footer %>
+
+</body>
+</html>
