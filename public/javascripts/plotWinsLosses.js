@@ -44,7 +44,7 @@ function plotWinsLosses(data){
   var primaryColors = data.map(function(d, i){
     if (d.team === 'Blackhawks') {
       var teamPrimaryColor = '#e3263a' };
-  })
+  });
     // else if (d.team == 'Bruins') {
     //
     // } {

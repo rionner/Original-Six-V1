@@ -1,41 +1,57 @@
 <%= include ./partials/header %>
+    <link rel='stylesheet' href='/stylesheets/landing.css' />
+  </head>
+<body id='wrapper'>
 
     <h1><%= title %></h1>
 
-  <a href="/blackhawks">
-    <div id='blackhawks' class='team'>
-      <h1>BLACKHAWKS</h1>
-    </div>
-  </a>
+  <div id="background">
 
-  <a href="/bruins">
-    <div id='bruins' class='team'>
-      <h1>BRUINS</h1>
-    </div>
-  </a>
+  <div class="container">
 
-  <a href="/canadiens">
-    <div id='canadiens' class='team'>
-      <h1>CANADIENS</h1>
-    </div>
-  </a>
+    <a href="/blackhawks">
+      <div id='blackhawks' class='team'>
+        <h1>BLACKHAWKS</h1>
+      </div>
+    </a>
 
-  <a href="/mapleleafs">
-    <div id='mapleleafs' class='team'>
-      <h1>MAPLE LEAFS</h1>
-    </div>
-  </a>
+    <a href="/bruins">
+      <div id='bruins' class='team'>
+        <h1>BRUINS</h1>
+      </div>
+    </a>
 
-  <a href="/rangers">
-    <div id='rangers' class='team'>
-      <h1>RANGERS</h1>
-    </div>
-  </a>
+    <a href="/canadiens">
+      <div id='canadiens' class='team'>
+        <h1>CANADIENS</h1>
+      </div>
+    </a>
 
-  <a href="/redwings">
-    <div id='redwings' class='team'>
-      <h1>RED WINGS</h1>
-    </div>
-  </a>
+    <a href="/mapleleafs">
+      <div id='mapleleafs' class='team'>
+        <h1>MAPLE LEAFS</h1>
+      </div>
+    </a>
+
+    <a href="/rangers">
+      <div id='rangers' class='team'>
+        <h1>RANGERS</h1>
+      </div>
+    </a>
+
+    <a href="/redwings">
+      <div id='redwings' class='team'>
+        <h1>RED WINGS</h1>
+      </div>
+    </a>
+
+  </div>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.team').hide();
+      $('.team').fadeIn(800);
+    });
+  </script>
 
 <%= include ./partials/footer %>
