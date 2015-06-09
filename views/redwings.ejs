@@ -1,17 +1,15 @@
 <%= include ./partials/header %>
 
 <body id='wrapper'>
-
   <%= include ./partials/nav %>
 
-  <div id="background">
+  <div class="background">
 
-    <h1><%= title %></h1>
-    <h1><%= city %></h1>
+    <h1><%= title %> - <%= city %> - [1997 - 2015]</h1>
 
-  <%= include ./partials/general_winloss.ejs %>
-  <%= include ./partials/general_goals.ejs %>
-  <%= include ./partials/ajax_call %>
+    <%= include ./partials/general_winloss.ejs %>
+    <%= include ./partials/general_goals.ejs %>
+    <%= include ./partials/ajax_call %>
 
   </div>
 

@@ -7,12 +7,16 @@
   background-attachment: fixed;
 }
 
-#background{
+.background {
   background-color: rgba(255, 255, 255, 0.7);
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
-nav{
+footer {
+  height: 100px;
+}
+
+nav {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -31,10 +35,22 @@ a {
   text-decoration: none;
 }
 
-h1{
+h1 {
   font-family: 'Roboto', sans-serif;
   font-style: bold;
   font-size: 50px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-style: bold;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  margin: 0 auto;
 }
 
 .container {
@@ -43,7 +59,7 @@ h1{
   justify-content: center;
 }
 
-.team{
+.team {
   width: 350px;
   height: 200px;
   margin: 5px;
@@ -52,56 +68,80 @@ h1{
   flex-grow: main-size;
 }
 
-#blackhawks{
+.win-loss {
+  margin-top: 40px;
+  margin-bottom: 60px;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.total-goals {
+  margin-top: 40px;
+  margin-bottom: 60px;
+  padding: 20px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#blackhawks {
   color: rgba(0, 0, 0, 1);
   background-color: rgba(227, 38, 58, 1);
 }
-#blackhawks:hover{
+#blackhawks:hover {
   color: rgba(227, 38, 58, 1);
   background-color: rgba(0, 0, 0, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
 
-#bruins{
+#bruins {
   color: rgba(255, 196, 34, 1);
   background-color: rgba(0, 0, 0, 1);
 }
-#bruins:hover{
+#bruins:hover {
   color: rgba(0, 0, 0, 1);
   background-color: rgba(255, 196, 34, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
 
-#canadiens{
+#canadiens {
   color: rgba(33, 55, 112, 1);
   background-color: rgba(207, 47, 56, 1);
 }
-#canadiens:hover{
+#canadiens:hover {
   color: rgba(207, 47, 56, 1);
   background-color: rgba(33, 55, 112, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
 
-#mapleleafs{
+#mapleleafs {
   color: rgba(255, 255, 255, 1);
   background-color: rgba(0, 55, 119, 1);
 }
-#mapleleafs:hover{
+#mapleleafs:hover {
   color: rgba(0, 55, 119, 1);
   background-color: rgba(255, 255, 255, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
 
-#rangers{
+#rangers {
   color: rgba(230, 57, 63, 1);
   background-color: rgba(1, 97, 171, 1);
 }
-#rangers:hover{
+#rangers:hover {
   color: rgba(1, 97, 171, 1);
   background-color: rgba(230, 57, 63, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
 
-#redwings{
+#redwings {
   color: rgba(255, 255, 255, 1);
   background-color: rgba(236, 31, 38, 1);
 }
-#redwings:hover{
+#redwings:hover {
   color: rgba(236, 31, 38, 1);
   background-color: rgba(255, 255, 255, 1);
+  transition: background-color 0.8s ease, padding 0.5s linear;
 }
