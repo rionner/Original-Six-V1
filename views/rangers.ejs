@@ -2,14 +2,20 @@
 
 <body id='wrapper'>
 
-<%= include ./partials/nav %>
+  <%= include ./partials/nav %>
 
-  <h1><%= title %></h1>
-  <h1><%= city %></h1>
+  <div id="background">
 
-<%= include ./partials/general_winloss.ejs %>
-<%= include ./partials/ajax_call %>
-<%= include ./partials/footer %>
+    <h1><%= title %></h1>
+    <h1><%= city %></h1>
+
+  <%= include ./partials/general_winloss.ejs %>
+  <%= include ./partials/general_goals.ejs %>
+  <%= include ./partials/ajax_call %>
+
+  </div>
+  
+  <%= include ./partials/footer %>
 
 </body>
 </html>
