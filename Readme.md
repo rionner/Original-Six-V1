@@ -19,17 +19,16 @@ Delivered 6/1/2015 - an (unstyled) chart is rendered for each team displaying wi
 #Version 2.0:
 Delivered 6/10/2015 - a (styled) pair of charts is rendered for each team, displaying wins vs losses in team colors, as well as goals scored vs goals allowed for each regular season since 1997-1998.
 
-#Landing Page:
+##Landing Page:
 ![assets/0_Original Six.png]
 
-#Blackhawks Page:
+##Blackhawks Page:
 ![assets/1_Blackhawks.png]()
 
-#Bruins Page:
+##Bruins Page:
 ![assets/2_Bruins.png]()
 
-#Version 3.0 (the one for the dreamers):
-Delivery TBD, Milestones:
+#Version 3.0 (the one for the dreamers): Delivery TBD, Milestones:
 	- Added styling considerations (responsive design & mobile user considerations)
 	- Corrected / Implemented chart titles and descriptions for clarity
 	- Added interactions and animations for data illustration
